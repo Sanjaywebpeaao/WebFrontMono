@@ -1,0 +1,36 @@
+/* App container */
+.app-container {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 120px;
+  background: linear-gradient(135deg, #da1616, #4509b3);
+}
+
+/* Header and logo */
+.logo {
+  width: 80px;
+  height: auto;
+  margin-bottom: 80px;
+}
+
+h1 {
+  color: #f2f5f4;
+  text-shadow: 1px 1px 3px rgba(23, 10, 95, 0.5);
+}
+
+/* Paragraph */
+p {
+  color: #95f53c;
+  font-size: 1.2rem;
+  margin-top: 20px;
+}
+
+/* Card example (agar future me cards add karoge) */
+.card {
+  background-color: rgba(255,255,255,0.2);
+  padding: 15px;
+  border-radius: 8px;
+  margin: 10px auto;
+  max-width: 300px;
+  color: #759cf0;
+}

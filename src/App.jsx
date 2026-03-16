@@ -1,15 +1,16 @@
 import React from "react";
+import "./index.css";  // CSS import
 
 function App() {
   return (
-    <div className="container">
-      <h1>DevOps Practice Application</h1>
+    <div className="app-container">
+      <h1>DevOps Engineer </h1>
 
-      <div className="logo-container">
-        <img src="/logo.png" alt="DevOps Logo" className="logo" />
-      </div>
+      <img src="/logo.png" alt="DevOps Logo" className="logo" />
 
-      <p>React Monolithic Frontend for Deployment Practice</p>
+      <p>WebSite
+        Future Is Here
+      </p>
     </div>
   );
 }
