@@ -1,0 +1,2 @@
+# WebFrontMono
+Fronend app Monolithic 
